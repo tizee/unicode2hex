@@ -1,0 +1,13 @@
+*~
+build
+dist
+*pycache*
+
+# C extensions
+*.so
+
+# environment
+.env
+
+# editor
+.vscode
