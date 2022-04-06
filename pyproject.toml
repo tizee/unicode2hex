@@ -1,6 +1,6 @@
 [tool.poetry]
 authors=["tizee"]
-description ="a python boilerplate project"
+description ="Help get utf-8 hex representation of a unicode value or character"
 homepage = "https://github.com/tizee/unicode2hex"
 name="unicode2hex"
 repository = "git@github.com:tizee/unicode2hex.git"
