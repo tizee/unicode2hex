@@ -1,7 +1,7 @@
 [tool.poetry]
 authors=["tizee"]
 description ="a python boilerplate project"
-homepage = "https://github.com:tizee/unicode2hex"
+homepage = "https://github.com/tizee/unicode2hex"
 name="unicode2hex"
 repository = "git@github.com:tizee/unicode2hex.git"
 version="0.0.1"
