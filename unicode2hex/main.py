@@ -61,5 +61,8 @@ def codepoint_to_hex(codepoint):
         arr.append(hex_str[i:i+2])
     return arr
 
-if __name__ == '__main__':
+def run():
     main(sys.argv[1:])
+
+if __name__ == '__main__':
+    run()
