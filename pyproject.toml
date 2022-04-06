@@ -1,13 +1,13 @@
 [tool.poetry]
-authors=["tizee <me@jeetizee.com>"]
+authors=["tizee"]
 description ="a python boilerplate project"
 homepage = ""
-name="boilerplate-python"
+name="check-unicode"
 reademe="README.md"
 repository = ""
 version="0.0.1"
 packages = [
-{include = "example"}
+{include = "main"}
 ]
 
 # https://pypi.org/pypi?%3Aaction=list_classifiers
