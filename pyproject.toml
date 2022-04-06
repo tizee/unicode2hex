@@ -1,10 +1,9 @@
 [tool.poetry]
 authors=["tizee"]
 description ="a python boilerplate project"
-homepage = ""
-name="check-unicode"
-reademe="README.md"
-repository = ""
+homepage = "https://github.com:tizee/unicode2hex"
+name="unicode2hex"
+repository = "git@github.com:tizee/unicode2hex.git"
 version="0.0.1"
 packages = [
 {include = "main"}
@@ -16,7 +15,7 @@ classifiers = [
 ]
 
 [tool.poetry.dependencies]
-python = "3.7"
+python = "^3.7"
 
 [tool.poetry.dev-dependencies]
 flake8 = "*"

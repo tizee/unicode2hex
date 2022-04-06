@@ -18,7 +18,7 @@ def main(argv):
             unicode_val=hex(ord(val))
             hex_str="{:x}".format(int(unicode_val,16))
             hex_arrays.append([unicode_val,codepoint_to_hex(hex_str)])
-            
+
     for row in hex_arrays:
         val,line = row[0],row[1]
         hex_bytes=r"\x".join(line)
