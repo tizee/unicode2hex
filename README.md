@@ -1,3 +1,3 @@
-# boilerplate-py
+# unicode2hex
 
-A PYthon3 boilerplate project.
+Get UTF-8 code point representation of Unicode character or Unicode hex string.
